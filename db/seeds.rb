@@ -8,5 +8,5 @@
 
 Car.destroy_all
 
-Car.create(make: "Honda", model: "Odyssey", year: 2008)
-Car.create(make: "Subaru", model: "Legacy", year: 2008)
+Car.create(make: "Honda", model: "Odyssey", year: 2008, rating: 4)
+Car.create(make: "Subaru", model: "Legacy", year: 2008, rating: 5)
